@@ -1,0 +1,30 @@
+📊 Metode Gauss-Seidel untuk SPL 4 Variabel
+Deskripsi
+Proyek ini berfokus pada penyelesaian Sistem Persamaan Linear (SPL) dengan 4 variabel menggunakan Metode Iteratif Gauss-Seidel hingga mencapai solusi yang konvergen.
+
+Sistem Persamaan
+Sistem terdiri dari 4 persamaan linear yang diselesaikan dengan metode iteratif, di mana setiap variabel diperbarui secara berurutan berdasarkan nilai terbaru dari variabel lain.
+
+Metode & Tools
+Metode Numerik: Gauss-Seidel
+Microsoft Excel
+Iterasi bertahap
+Perhitungan error relatif
+Batas iterasi: 30
+
+Hasil
+Sistem berhasil diselesaikan secara numerik
+Solusi konvergen setelah beberapa iterasi
+Error relatif menurun hingga mencapai batas toleransi (0,05%–0,1%)
+
+Tujuan Proyek
+Memahami konsep metode iteratif pada SPL
+Menganalisis konvergensi metode Gauss-Seidel
+Mengimplementasikan penyelesaian sistem linear secara numerik
+Melatih analisis error antar iterasi
+
+Insight
+Metode Gauss-Seidel efektif dalam menyelesaikan SPL karena pendekatan iteratifnya yang cepat menuju solusi konvergen dibanding metode langsung.
+
+Penutup
+Proyek ini merupakan latihan metode numerik untuk memahami penyelesaian SPL secara iteratif dan analisis konvergensi.
